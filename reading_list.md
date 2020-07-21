@@ -35,7 +35,7 @@ The course reading will consist of a ***subset*** of this list.
 2. [What’s in a Name: Exposing Gender Bias in Student Ratings of Teaching](https://link.springer.com/article/10.1007/s10755-014-9313-4)
 3. [Examples of Bias in Letters to Watch Out For](https://www.rit.edu/nsfadvance/sites/rit.edu.nsfadvance/files/docs/Examples%20of%20Bias%20in%20Letters%20of%20Recommendation%2015OCT2018.pdf)
 4. [How Sexism in Tech Impacts the World Outside Silicon Valley](https://knowledge.wharton.upenn.edu/article/breaking-up-the-boys-club-of-silicon-valley/)
-5. [Closing the Achievement Gap in Higher Education: An Organizational Learning Perspective] (https://www.deanza.edu/equityoffice/Bensimon_Closing%20the%20Achievement%20Gap%20in%20Higher%20Education.pdf)
+5. [Closing the Achievement Gap in Higher Education: An Organizational Learning Perspective](https://www.deanza.edu/equityoffice/Bensimon_Closing%20the%20Achievement%20Gap%20in%20Higher%20Education.pdf)
 6. [“Those invisible barriers are real”: The Progression of First-Generation Students Through Doctoral Education](https://mcnair.siu.edu/_common/documents/univ-401a/the-progression-of-first-gen-students-through-doctoral-education.pdf)
 7. [When First Generation Students go to Graduate School](https://onlinelibrary.wiley.com/doi/abs/10.1002/tl.453)
 8. [ON MENTORING FIRST GENERATION AND GRADUATE STUDENTS OF COLOR](https://clpc.mla.hcommons.org/on-mentoring-first-generation-and-graduate-students-of-color/)
@@ -51,7 +51,7 @@ The course reading will consist of a ***subset*** of this list.
 
 ### Inclusive STEM/Tech Pedagogy
 1. [Harvey Mudd College took on gender bias and now more than half its computer-science majors are women](https://qz.com/730290/harvey-mudd-college-took-on-gender-bias-and-now-more-than-half-its-computer-science-majors-are-women/)
-2. [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math] (https://www.pnas.org/content/117/12/6476)
+2. [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math](https://www.pnas.org/content/117/12/6476)
 3. [Reflecting on the Impact of a Course on Inclusive Strategies for Teaching Computer Science](https://www.cs.usfca.edu/~apjoshi/papers/inclusive-teaching-fie-2018.pdf)
 4. [Are College Lectures Unfair?](https://www.nytimes.com/2015/09/13/opinion/sunday/are-college-lectures-unfair.html?_r=0)
 
