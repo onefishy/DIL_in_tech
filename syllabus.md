@@ -26,8 +26,9 @@ The responses are graded for effort: did the student make an effort to read the 
 Students are expected to attend every class meeting and participate actively. Meaningful and constructive dialogue is crucial for this class and this requires a degree of mutual respect, willingness to listen, and tolerance of opposing points of view. Respect for individual differences and alternative viewpoints will be maintained at all times in this class. One’s words and use of language should be temperate and students are encouraged to proactively build-up the ideas of others. Simulatenously, real change (emotional, intellectual and social) does not happen without effort, disruption and discomfort, as such, students are also encouraged to challenge the ideas of their peers and well as their own beliefs.
 
 ### Grading:
-- *Reading Responses:* 50%
-- *Participation:* 50%
+- *Reading Responses:* 30%
+- *Participation:* 30%
+- *Service:* 40%
 
 ### Respect for Diversity
 It is the mission of the teaching staff that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. We aim to create a learning environment that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions for how to better our classroom community are always encouraged and appreciated.
