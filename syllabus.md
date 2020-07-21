@@ -12,7 +12,7 @@ Through readings, students will gain familiarity with a wide rage of previously 
 ### General Information
 This is a seminar course, wherein students are expected to shape and direct discussions, ***facilitated*** by the teaching staff. Students enrolled in this course are expected to serve on the IACS Student Committee on Diversity, Inclusion and Belonging, wherein they will work on implementing the diversity/inclusion strategies developed in this course specifically to improve the IACS community.
 
-There will be weekly reading assignments consisting of 2-4 articles (chosen from the [Main Reading List](./reading_list.html)), short weekly reading response and weekly discussion based class meetings.
+There will be weekly reading assignments consisting of 2-3 articles (chosen from the [Main Reading List](./reading_list.html)), short weekly reading response and weekly discussion based class meetings.
 
 ### Course Schedule
 TBA
