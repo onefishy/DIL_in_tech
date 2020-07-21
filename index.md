@@ -6,10 +6,8 @@
 
 **What is this Course?**
 
-The aim of this course is to help students develops skills for computational research with focus on stochastic approaches, emphasizing implementation and examples. Stochastic methods make it feasible to tackle very diverse problems when the solution space is too large to explore systematically, or when microscopic rules are known, but not the macroscopic behavior of a complex system. Methods are illustrated with examples from a wide variety of fields, like biology, finance, and physics. We tackle Bayesian methods of data analysis as well as various stochastic optimization methods. 
+This course examines inequity in tech in two ways: 1. by examining structural (cultural, social and institutional) factors underlying the low-levels of diversity in tech and 2. by examining the unequal social impact of technology in deployment. Through readings, students will gain familiarity with a wide rage of previously identified structural challenges for achieving equitable representation in tech and fair outcomes in when technology is integrated into social institutions. The focus of the course will be on identifying leadership opportunities and concrete strategies for making positive changes in tech communities (classroom and workplaces) as well as in the way that technology is deployed, used and monitored.
 
 **Important Course Documents**
-
-- [Course Syllabus](./syllabus.html)
 - [Reading List](./reading_list.html)
 
