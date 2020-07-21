@@ -28,7 +28,7 @@ Students are expected to attend every class meeting and participate actively. Me
 ### Grading:
 - *Reading Responses:* 30%
 - *Participation:* 30%
-- *Service:* 40%
+- *Committee Service:* 40%
 
 ### Respect for Diversity
 It is the mission of the teaching staff that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. We aim to create a learning environment that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions for how to better our classroom community are always encouraged and appreciated.
