@@ -17,3 +17,8 @@ Through readings, students will gain familiarity with a wide range of previously
 - [Syllabus](./syllabus.html)
 - [Reading List](./reading_list.html)
 
+**Registration Information**
+This course is not listed on `my.harvard`. Instead, registration is through completing an AC299r application:
+1. Contact the course instructor for permission to enroll
+2. Contact your IACS academic advisor to obtain and submit a AC299r application for this course
+
