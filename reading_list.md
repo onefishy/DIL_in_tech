@@ -4,6 +4,8 @@ The course reading will consist of a ***subset*** of this list.
 
 ### Race, Gender and Class in Tech
 1. Race, Rigor, and Selectivity in U.S. Engineering (Book)
+2. [Silicon Valley has its own long-standing systemic racial problem](https://www.businessinsider.com/silicon-valley-has-its-own-long-standing-systemic-racial-problem-2020-6)
+3. [There Is a Supply of Diverse Workers in Tech, So Why Is Silicon Valley So Lacking in Diversity?](https://www.americanprogress.org/issues/race/reports/2017/03/29/429424/supply-diverse-workers-tech-silicon-valley-lacking-diversity/)
 3. [The Tech Industry’s Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem)
 4. [Why Is Silicon Valley So Awful to Women?](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/)
 5. [Why Tech’s Approach to Fixing Its Gender Inequality Isn’t Working](https://hbr.org/2019/10/why-techs-approach-to-fixing-its-gender-inequality-isnt-working)
@@ -31,6 +33,7 @@ The course reading will consist of a ***subset*** of this list.
 12. What If? Short Stories to Spark Diversity Dialogue (Book)
 
 ### Race, Gender and Class in Academia
+1. [Diversity Gaps in Computer Science](https://services.google.com/fh/files/misc/diversity-gaps-in-computer-science-report.pdf)
 1. [Gender and Ethnic Bias in Letters of Recommendation](https://www.schoolcounselor.org/asca/media/PDFs/WebinarPowerPoints/1096-2409-20-1-102.pdf)
 2. [What’s in a Name: Exposing Gender Bias in Student Ratings of Teaching](https://link.springer.com/article/10.1007/s10755-014-9313-4)
 3. [Examples of Bias in Letters to Watch Out For](https://www.rit.edu/nsfadvance/sites/rit.edu.nsfadvance/files/docs/Examples%20of%20Bias%20in%20Letters%20of%20Recommendation%2015OCT2018.pdf)
