@@ -9,3 +9,6 @@
 - Diversity Gaps in Computer Science:
 Exploring the Underrepresentation of Girls, Blacks and Hispanics
 - Why Is Silicon Valley So Awful to Women?
+
+**Response**
+Summarize the information in the readings - what is the current landscape of diversity in tech? What seem to be (or are not) the main bottlenecks for achieving diversity? Can you relate any part of your readings to your personal experience in tech as a student of Data Science? 
