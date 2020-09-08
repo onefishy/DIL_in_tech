@@ -15,6 +15,7 @@ Through readings, students will gain familiarity with a wide range of previously
 
 **Important Course Documents**
 - [Syllabus](./syllabus.html)
+- [Schedule](./schedule.html)
 - [Reading List](./reading_list.html)
 
 **Registration Information**
