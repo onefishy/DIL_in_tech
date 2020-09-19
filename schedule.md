@@ -25,3 +25,17 @@ Summarize the information in the readings - what is the current landscape of div
 **Response**
 
 Summarize the information in the readings - what are the common threads in the testimonials in "Black and brown tech workers share their experiences of racism on the job"? Are these experiences related to the implicit biases and expectations that the other three articles identify as part of the dominant culture in tech? Can you relate any part of your readings to your personal experiences as a student of Data Science or experiences of those close to you? If these social/cultural factors contribute to the stymying of diversity, how can we address them? In particular, should the solutions be individual/personal/grassroots or institutional (what do the readings from last week and this week suggest)?
+
+#### Week 3: Strategies for Diversifying Academia
+
+**Readings**
+- Holistic Review in Graduate Admissions
+- Addressing the Challenge of Diversity in the Graduate Ranks: Good Practices Yield Good Outcomes
+- Strategies to improve equity in faculty hiring
+- Gender and Ethnic Bias in Letters of Recommendations
+- Structural causes of inequities in STEM hiring and promising strategies for increasing diversity
+
+**Response**
+
+Summarize the information in the readings - are there common challenges in diversifying faculty and graduate student bodies? Are there common good practices? How do these practices address some of the structural/cultural barriers faced by UMRs in the readings from the previous weeks? 
+
