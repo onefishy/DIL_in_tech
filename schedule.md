@@ -39,3 +39,15 @@ Summarize the information in the readings - what are the common threads in the t
 
 Summarize the information in the readings - are there common challenges in diversifying faculty and graduate student bodies? Are there common good practices? How do these practices address some of the structural/cultural barriers faced by UMRs in the readings from the previous weeks? 
 
+#### Week 4: Diversity, Ethics and Social Justice in the Cirriculum
+
+**Readings**
+- Integrating data science ethics into an undergraduate major
+- Active learning narrows achievement gaps forunderrepresented students in undergraduate science, technology, engineering, and math
+- Are College Lectures Unfair?
+- Controlled Fission: Teaching Supercharged Subjects
+- Data Science as Political Action: Grounding Data Science in a Politics of Justice
+
+**Response**
+Summarize the information in the readings - why should we be addressing diversity, ethics and social justice in a data science classroom? What might be our goals and desired outcomes for our students by addressing these issues?What are some potential difficulties with meaningful integration of these issues into traditional classrooms? What are some promising ways for addressing these issues in a data science classroom? What are some ways you (personally) have encountered these issues in the classroom - were these experiences productive, difficult, frustrating?
+
