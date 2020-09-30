@@ -49,5 +49,15 @@ Summarize the information in the readings - are there common challenges in diver
 - Data Science as Political Action: Grounding Data Science in a Politics of Justice
 
 **Response**
-Summarize the information in the readings - why should we be addressing diversity, ethics and social justice in a data science classroom? What might be our goals and desired outcomes for our students by addressing these issues?What are some potential difficulties with meaningful integration of these issues into traditional classrooms? What are some promising ways for addressing these issues in a data science classroom? What are some ways you (personally) have encountered these issues in the classroom - were these experiences productive, difficult, frustrating?
+Summarize the information in the readings - why should we be addressing diversity, ethics and social justice in a data science classroom? What might be our goals and desired outcomes for our students by addressing these issues? What are some potential difficulties with meaningful integration of these issues into traditional classrooms? What are some promising ways for addressing these issues in a data science classroom? What are some ways you (personally) have encountered these issues in the classroom - were these experiences productive, difficult, frustrating?
+
+#### Week 5: Relating Data Science Ethics and Diversity
+
+**Readings**
+- Automated Justice: A Review of Weapons of Math Destruction
+- Excerpts from "Invisible Women"
+- Excerpts from "Race After Technology"
+
+**Response**
+Summarize the information in the readings - this week's readings highlight the disparate impacts of technology (not just digital) on marginalized groups. Do you see themes in the ways technology can negative and unequally impact these groups? Do you see common sources for these disparaties (e.g. are these disparaties arising from malevolent actors/systems, are they anomalies/accidents)? To what degree does addressing ethical issues in data science requires one to address the issues of diversity and inclusion?
 
