@@ -59,5 +59,5 @@ Summarize the information in the readings - why should we be addressing diversit
 - Excerpts from "Race After Technology"
 
 **Response**
-Summarize the information in the readings - this week's readings highlight the disparate impacts of technology (not just digital) on marginalized groups. Do you see themes in the ways technology can negative and unequally impact these groups? Do you see common sources for these disparaties (e.g. are these disparaties arising from malevolent actors/systems, are they anomalies/accidents)? To what degree does addressing ethical issues in data science requires one to address the issues of diversity and inclusion?
+Summarize the information in the readings - this week's readings highlight the disparate impacts of technology (not just digital) on marginalized groups. Do you see themes in the ways technology can negative and unequally impact these groups? Do you see common sources for these disparities (e.g. are these disparities arising from malevolent actors/systems, are they anomalies/accidents)? To what degree does addressing ethical issues in data science require one to address the issues of diversity and inclusion?
 
