@@ -63,7 +63,7 @@ Summarize the information in the readings - this week's readings highlight the d
 
 #### Week 6, 7: Work on Student Advisory Committee Tasks
 
-#### Week 5: Development of Codes of Ethics in Professional Societies
+#### Week 8: Development of Codes of Ethics in Professional Societies
 
 **Readings**
 - An Introduction to Software Engineering Ethics
