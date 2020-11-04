@@ -61,3 +61,17 @@ Summarize the information in the readings - why should we be addressing diversit
 **Response**
 Summarize the information in the readings - this week's readings highlight the disparate impacts of technology (not just digital) on marginalized groups. Do you see themes in the ways technology can negatively and unequally impact these groups? Do you see common sources for these disparities (e.g. are these disparities arising from malevolent actors/systems, are they anomalies/accidents)? To what degree does addressing ethical issues in data science require one to address the issues of diversity and inclusion in tech?
 
+#### Week 6, 7: Work on Student Advisory Committee Tasks
+
+#### Week 5: Development of Codes of Ethics in Professional Societies
+
+**Readings**
+- An Introduction to Software Engineering Ethics
+- Historical perspectives on development of the codes of ethics in the legal medical and accounting professions
+- Evolution of the American society of civil engineers code of ethics
+- How the New Softward Engineering Code of Ethics Affects You
+- Professional Self-regulation in North America: the Cases of Law and Accounting
+
+**Response**
+Summarize the information in the readings - how did professional codes of ethics come to be - what motivated/precipitated the establishment of codes? How do these codes differ and how are they similar across disciplines? What are some relevant take-aways for data science? How do professional societies in the other disciplines self-regulate - how do they socialize new members and enforce these codes of ethics?
+
