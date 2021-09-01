@@ -25,15 +25,15 @@ The course reading will consist of a ***subset*** of this list.
 2. [Looking Up and Looking Out: Career Mobility Effects of Demographic Similarity among Professionals](https://hbswk.hbs.edu/item/looking-up-and-looking-out-career-mobility-effects-of-demographic-similarity-among-professionals)
 3. [6 Steps to Building a Better Workplace for Black Employees](https://hbswk.hbs.edu/item/6-steps-to-building-a-better-workplace-for-black-employees)
 3. [NEW IMPLICIT BIAS PRESENTATIONS](http://kirwaninstitute.osu.edu/new-implicit-bias-presentations/)
-4. Making Diversity Work: 7 Steps for Defeating Bias in the Workplace (Book)
-5. Diversity Resistance in Organizations (Book)
-6. Managing Diversity: Toward a Globally Inclusive Workplace (Book)
+4. [Making Diversity Work: 7 Steps for Defeating Bias in the Workplace (Book)](https://www.amazon.com/Making-Diversity-Work-Defeating-Workplace/dp/1427797137)
+5. [Diversity Resistance in Organizations (Book)](https://www.routledge.com/Diversity-Resistance-in-Organizations/Thomas/p/book/9780367345600)
+6. [Managing Diversity: Toward a Globally Inclusive Workplace (Book)](https://us.sagepub.com/en-us/nam/managing-diversity/book244476)
 7. [We Just Can’t Handle Diversity](https://hbr.org/2016/07/we-just-cant-handle-diversity)
 8. [Why Most Performance Evaluations Are Biased, and How to Fix Them](https://hbr.org/2019/01/why-most-performance-evaluations-are-biased-and-how-to-fix-them)
 9. [Microinequities: When Small Slights Lead to Huge Problems in the Workplace](https://www.michelemmartin.com/files/small-slights-and-huge-problems.pdf)
 10. [How Hard Should You Push Diversity?](https://hbr.org/2012/09/case-study-how-hard-should-you-push-diversity)
 11. [How Mindfulness Helped a Workplace Diversity Exercise](https://hbr.org/2017/01/how-mindfulness-helped-a-workplace-diversity-exercise)
-12. What If? Short Stories to Spark Diversity Dialogue (Book)
+12. [What If? Short Stories to Spark Diversity Dialogue (Book)](https://www.amazon.com/What-If-Stories-Diversity-Dialogue/dp/0891062750)
 
 ### Race, Gender and Class in Academia
 1. [Diversity Gaps in Computer Science](https://services.google.com/fh/files/misc/diversity-gaps-in-computer-science-report.pdf)
@@ -52,8 +52,9 @@ The course reading will consist of a ***subset*** of this list.
 13. [Racial and gender biases plague postdoc hiring](https://www.sciencemag.org/careers/2019/06/racial-and-gender-biases-plague-postdoc-hiring)
 14. [Structural causes of inequities in STEM hiring and promising strategies for increasing diversity (Presentation)](https://www.ucop.edu/ucadvance/_files/roundtable-1/structural-causes-of-inequities-in-stem-hiring-and-promising-strategies-for-increasing-diversity.pdf)
 15. [Science faculty’s subtle gender biases favor male students](https://www.pnas.org/content/109/41/16474)
-16. Stuck in the Shallow End: Education, Race, and Computing (Book)
+16. [Stuck in the Shallow End: Education, Race, and Computing (Book)](https://mitpress.mit.edu/books/stuck-shallow-end)
 17. [What it means to be black in the American educational system](https://theconversation.com/what-it-means-to-be-black-in-the-american-educational-system-63576)
+18. [Black, Brown, Bruised How Racialized STEM Education Stifles Innovation (Book)](https://www.hepg.org/hep-home/books/black,-brown,-bruised)
 
 ### Inclusive STEM/Tech Pedagogy
 1. [Harvey Mudd College took on gender bias and now more than half its computer-science majors are women](https://qz.com/730290/harvey-mudd-college-took-on-gender-bias-and-now-more-than-half-its-computer-science-majors-are-women/)
@@ -75,6 +76,12 @@ The course reading will consist of a ***subset*** of this list.
 11. [Layers of Bias: A Unified Approach for Understanding Problems With Risk Assessment](https://journals.sagepub.com/doi/abs/10.1177/0093854818811379)
 12. [Beyond Bias: Re-imagining the Terms of "Ethical AI" in Criminal Law](https://cyber.harvard.edu/story/2019-04/beyond-bias-re-imagining-terms-ethical-ai-criminal-law)
 13. [DISCRIMINATING SYSTEMS Gender, Race, and Power in AI](https://ainowinstitute.org/discriminatingsystems.pdf)
+14. [Your Computer Is on Fire (Book)](https://mitpress.mit.edu/books/your-computer-fire)
+15. [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass (Book)](https://ghostwork.info)
+16. [Race After Technology: Abolitionist Tools for the New Jim Code (Book)](https://www.ruhabenjamin.com/race-after-technology)
+17. [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor (Book)](https://us.macmillan.com/books/9781250074317)
+18. [Invisible Women: Data Bias in a World Designed for Men (Book)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
+19. [Algorithms of Oppression How Search Engines Reinforce Racism (Book)](https://nyupress.org/9781479837243/algorithms-of-oppression/)
 
 ### Tech Ethics and Citizenship
 1. [How Google treats Meredith Whittaker is important to potential AI whistleblowers](https://venturebeat.com/2019/04/24/how-google-treats-meredith-whittaker-is-important-to-potential-ai-whistleblowers/)
@@ -82,6 +89,7 @@ The course reading will consist of a ***subset*** of this list.
 3. [The Whistleblower’s Dilemma: Do the Risks Outweigh the Benefits?](https://knowledge.wharton.upenn.edu/article/whistleblowers-in-business/)
 4. [Google's Project Nightingale highlights the necessity of data science ethics review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7059004/)
 5. [Technology Ethics Cases](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/technology-ethics-cases/)
+6. [Grounding Data Science in a Politics of Justice](https://arxiv.org/abs/1811.03435)
 
 ### International Students
 1. [International Students in Transition: Voices of Chinese Doctoral Students in a U.S. Research University](https://files.eric.ed.gov/fulltext/EJ1083276.pdf)
