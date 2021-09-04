@@ -29,4 +29,5 @@ Thinking ahead - What topics do you hope to explore in this seminar? What do you
 
 
 **Response**
+
 Summarize the information in the readings - in what ways do these readings challenge the popular narrative of the history, norms and values of the tech industry? Can you relate any part of your readings to your personal experiences as a student of Data Science or experiences of those close to you? The readings identify social/cultural factors that contribute to the stymying of diversity in tech, how can we address these obstacles? In particular, should the solutions be individual/personal/grassroots or institutional (what do the readings from last week and this week suggest)?
