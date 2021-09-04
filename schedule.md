@@ -19,6 +19,7 @@ Thinking ahead - What topics do you hope to explore in this seminar? What do you
 #### Week 2: How Did Tech Become So Homogenous: the Social/Cultural/Historical Factors
 
 **Readings**
+
 - The Secret History of Women in Coding
 - Critical Figures: Charting the History of ‘Black Software’ in Tech (a review of *Black Software*, which I highly recommend)
 - Silicon Valley Isn't a Meritocracy. And It's Dangerous to Hero-Worship Entrepreneurs
