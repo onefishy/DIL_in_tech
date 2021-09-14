@@ -31,3 +31,18 @@ Thinking ahead - What topics do you hope to explore in this seminar? What do you
 **Response**
 
 Summarize the information in the readings - in what ways do these readings challenge the popular narrative of the history, norms and values of the tech industry? Can you relate any part of your readings to your personal experiences as a student of Data Science or experiences of those close to you? The readings identify social/cultural factors that contribute to the stymying of diversity in tech, how can we address these obstacles? In particular, should the solutions be individual/personal/grassroots or institutional (what do the readings from last week and this week suggest)?
+
+
+#### Week 3: How Does the Diversity/Homogeneity of Tech Affect the Products We Design and the Ways They Impact the World? 
+
+**Readings**
+
+  - Excerpts from Race After Technology
+  - Excerpts from Automating Inequality
+  - Excerpts from Invisible Women
+  - [Talk based on Black Software](https://www.youtube.com/watch?v=g7WcCjL14iQ)
+
+
+**Response**
+
+Summarize the information in the readings - this week's readings highlight the disparate impacts of technology (not just digital) on marginalized groups. Do you see themes in the ways technology can negatively and unequally impact these groups? Do you see common sources for these disparities (e.g. are these disparities arising from malevolent actors/systems, are they anomalies/accidents)? Relating this week's reading to ones from previous weeks, can you say to what extent does addressing ethical issues in data science require one to address the issues of diversity and inclusion in tech?
