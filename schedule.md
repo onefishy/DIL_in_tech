@@ -48,7 +48,7 @@ Summarize the information in the readings - in what ways do these readings chall
 Summarize the information in the readings - this week's readings highlight the disparate impacts of technology (not just digital) on marginalized groups. Do you see themes in the ways technology can negatively and unequally impact these groups? Do you see common sources for these disparities (e.g. are these disparities arising from malevolent actors/systems, are they anomalies/accidents)? Relating this week's reading to ones from previous weeks, can you say to what extent does addressing ethical issues in data science require one to address the issues of diversity and inclusion in tech?
 
 
-#### Week 4: What Are Our Obligations to Fix the Failings in/of Tech and What Are Some Pathways to Solutions?
+#### Week 4: What Are Our Obligations to Fix the Failings in/of Tech? What Are Pathways to Solutions?
 
 We've surveyed the unequal representation in tech and the unequal impacts of tech. This might raise the questions: but what can be done and what should I do? This week's reading addresses these questions from philosophical foundations, presents practical frameworks and offers constructive critiques of solutions being offered.
 
