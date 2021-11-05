@@ -61,4 +61,71 @@ We've surveyed the unequal representation in tech and the unequal impacts of tec
 
 Summarize the information in the readings - in what ways is an individual data scientist obligated to engage with the ethical implications of their work (on what grounds would you argue that there is any obligation)? What are some ways the tech community have tried to address the broader impact (especially negative impact) of their products? What are the promises and pitfalls of these proposed fixes?
 
+
+#### Week 5: Barriers and Pathways to Inclusion
 Since we've been discussing how data science curricula should prepare a student to tackle the alignment of technology and human values: Why should we be addressing diversity, ethics and social justice in a data science classroom? What might be our goals and desired outcomes for our students by addressing these issues? What are some potential difficulties with meaningful integration of these issues into traditional classrooms? What are some ways you (personally) have encountered these issues in the classroom - were these experiences productive, difficult, frustrating?
+
+**Readings**
+
+*Barriers to full inclusion along multiple axes:*
+1. Black and brown tech workers share their experiences of racism on the job
+2. Chapter 3 in Black, Brown and Bruised: How Racialized STEM Education Stifles Innovation 
+3. LGBTQ+ voices: Learning from lived experiences
+4. “Those invisible barriers are real”: The Progression of First-Generation Students Through Doctoral Education
+5. International Students in Transition: Voices of Chinese Doctoral Students in a U.S. Research University
+
+*Pathways towards inclusion:*
+6. Chapte 5 in Black, Brown and Bruised: How Racialized STEM Education Stifles Innovation 
+7. Fourteen Recommendations to Create a More Inclusive Environment for LGBTQ+ Individuals in Academic Biology
+
+**Response**
+
+Summarize the information in the readings -- identify barriers to academic/professional success and inclusion for each demographic group, add to this list experience of other demographic groups we've read about in previous weeks (e.g. women, Asian Americans). Look for overarching themes: what are the common threads in these experiences, in what ways are the experiences of these groups different/unique. Based on the narratives collected here, can you say to what extent is acknowledging identity important in professional spaces (what are the benefits to the institution and what are the benefits to the individual)? What are the consequences when these identities are ignored or devalued? Can you relate the readings to your personal experience -- in what ways have you balanced your non-professional identities and your professional identity? Have these always been the same for you (i.e. you have not been explicitly aware that you held multiple identities) or have these identities been at times in conflict?
+
+
+#### Week 6 & 7: Action Brainstorming for IACS & GAC
+
+**Special vistors:** Paul Tembo and Yaniv Yacoby
+
+
+#### Week 8: How to Build Successful Coalitions/Communities Across Differences
+This week we want to gather lessons from the literature on diverse coalition/community building and instantiate them for IACS and the broader SEAS community.
+
+**Readings**
+
+1. Coalition‐building and the forging of solidarity across difference and inequality
+2. Strength in Numbers: A Guide to Building Community Coalitions
+3. Building Collaborative Capacity in Community Coalitions: A Review and Integrative Framework
+
+**Response** 
+
+Summarize the readings -- what are some "best practices" for coalition building? Specifically, what are some best practices for ensuring that our coalitions are inclusive and diverse? How do we maintain the effectiveness and cohesion of the coalition when the diverse identities/lived experiences in our coalition lead to difference in goals/opinions? Instantiate these lessons for IACS. That is: (1) characterize the communities and identities within IACS (2) identify unique needs/goals/experiences of each community (3) what would a successful & diverse student (or student+staff) coalition look like and what would be the purpose for this coalition (concretely, is this coalition the same as the GAC? Is this "coalition" a core group of IACS students/staff who are not necessarily in the GAC but are in charge of setting the tone for the culture of IACS? Is this "coalition" just the entire IACS community)? (4) how do you share decision making within your definition of the IACS coalition (for example, if your definition of this "coalition" is the entire IACS community, who then makes decisions about the goals and interests for this community -- the GAC, the vocal minority, the silent majority?)? 
+
+
+#### Week 9: Development of Codes of Ethics in Professional Societies
+
+**Readings**
+
+1. An Introduction to Software Engineering Ethics
+2. Historical perspectives on development of the codes of ethics in the legal medical and accounting professions
+3. Evolution of the American society of civil engineers code of ethics
+4. Professional Self-regulation in North America: the Cases of Law and Accounting
+
+**Response** 
+
+Summarize the information in the readings - how did professional codes of ethics come to be - what motivated/precipitated the establishment of codes? How do these codes differ and how are they similar across disciplines? What are some relevant take-aways for data science? How do professional societies in the other disciplines self-regulate - how do they socialize new members and enforce these codes of ethics?
+
+
+#### Week 10: Data Biases and Inequities
+
+**Readings**
+
+1. Awareness in Practice: Tensions in Access to Sensitive Attribute Data for Antidiscrimination
+2. New Categories are Not eNough: rethinking the Measurement of sex and gender in social surveys
+3. Why Are Health Studies So White?
+4. Chapter 5 of Data Feminism: Unicorns, Janitors, Ninjas, Wizards and Rock Stars 
+5. Introduction and Chapter 1 of Ghost Work 
+
+**Response**
+
+Summarize the information in the readings - Algorithmic bias has received much public and academic attention in the last years. We are also well aware that many of the biases in the outputs of our algorithm often follow from the biases in the data as well as biases in the way that we formulate the computational question itself (e.g. the case of predictive policing from previous readings). Given this week's readings, what are other important ways that our data collection processes can generate bias (and what are the consequences of these types of biases in the data)? What are the ways our data collection processes can directly generate unequal and negative broader social impacts? Relate this week's readings to those from previous weeks that examine algorithmic/technological biases from other perspectives (e.g. the talk by the author of "Black Software", "Race After Technology" and "Invisible Women"), what is the broad picture of problems/ethical issues in data collection, curation and manipulation? Instantiate this at IACS: in what ways have you critically examined the data collection, curation and manipulation pipeline in your courses? Have the treatment of data in these courses ever fallen into the common pitfalls highlighted in the readings? Do the readings provide insight on how we can improve the way we educate students about data in IACS courses? 
