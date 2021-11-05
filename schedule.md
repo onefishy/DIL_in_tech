@@ -103,6 +103,7 @@ Summarize the readings -- what are some "best practices" for coalition building?
 
 
 #### Week 9: Development of Codes of Ethics in Professional Societies
+This week, we will explore how professional communities develop codes of ethics and how these communities are regulated by these codes. We want to relate this weeks readings to previous reading on the role of ethics in data science.
 
 **Readings**
 
@@ -113,10 +114,11 @@ Summarize the readings -- what are some "best practices" for coalition building?
 
 **Response** 
 
-Summarize the information in the readings - how did professional codes of ethics come to be - what motivated/precipitated the establishment of codes? How do these codes differ and how are they similar across disciplines? What are some relevant take-aways for data science? How do professional societies in the other disciplines self-regulate - how do they socialize new members and enforce these codes of ethics?
+Summarize the information in the readings - how did professional codes of ethics come to be - what motivated/precipitated the establishment of codes? How do these codes differ and how are they similar across disciplines? What are some relevant take-aways for data science? How do professional societies in the other disciplines self-regulate - how do they socialize new members and enforce these codes of ethics? What lesson can we draw for data science as an emmerging profession? 
 
 
 #### Week 10: Data Biases and Inequities
+This week, we'll start our exploration of algorithmic bias. However, in understanding the roots of algorithmic bias and the broader impacts of this bias, we need to start with something more fundamental than the actual model or algorithm: we need to consider the data that feeds our ML pipelines, as often biases and harms are already apparent in the data that we (do not) collect and in the way that we collect them.
 
 **Readings**
 
