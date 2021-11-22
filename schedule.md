@@ -131,3 +131,32 @@ This week, we'll start our exploration of algorithmic bias. However, in understa
 **Response**
 
 Summarize the information in the readings - Algorithmic bias has received much public and academic attention in the last years. We are also well aware that many of the biases in the outputs of our algorithm often follow from the biases in the data as well as biases in the way that we formulate the computational question itself (e.g. the case of predictive policing from previous readings). Given this week's readings, what are other important ways that our data collection processes can generate bias (and what are the consequences of these types of biases in the data)? What are the ways our data collection processes can directly generate unequal and negative broader social impacts? Relate this week's readings to those from previous weeks that examine algorithmic/technological biases from other perspectives (e.g. the talk by the author of "Black Software", "Race After Technology" and "Invisible Women"), what is the broad picture of problems/ethical issues in data collection, curation and manipulation? Instantiate this at IACS: in what ways have you critically examined the data collection, curation and manipulation pipeline in your courses? Have the treatment of data in these courses ever fallen into the common pitfalls highlighted in the readings? Do the readings provide insight on how we can improve the way we educate students about data in IACS courses? 
+
+#### Week 11: Algorithmic Bias
+This week we continue to explore algorithmic bias, focusing on case studies of when an algorithm may create unjust, inequitable effects and why this happens.
+
+**Readings**
+
+1. Chapter 2 of The Alignment Problem
+2. Algorithms are Not Neutral: Bias in Collaborative Filtering
+3. Algorithm Justice in Child Protection: Statistical Fairness, Social Justice and the Implications for Practice
+
+**Response**
+
+Summarize the information in the readings - what is the definition of algorithmic bias? What are the sources of these biases (e.g. can algorithmic biases be always attributed to bias in the data or malicious intent of the user/developer?)? Is it possible to translate human values of fairness and justice into formal, algorithmic properties -- what do the readings suggest (if the answer is yes, what are some useful paradigms for doing this)? What are some common pitfalls that engineers/designers can fall into when trying to eliminate algorithmic bias?
+
+
+#### Week 12: Biases in  Socio-Technical Systems
+In the past weeks we've examined biases in data and algorithms. This set of readings ask us to examine what happens when biases in algorithms interact with biases in human actors and in social institutions.
+
+**Readings**
+
+1. Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments
+2. Algorithmic Decision-Making and the Control Problem
+3. Humans rely more on algorithms than social influence as a task becomes more difficult
+4. Runaway Feedback Loops in Predictive Policing
+5. The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally
+
+**Response**
+Putting together the three sets of readings (data bias, algorithmic bias and bias in socio-technical systems), think about when, where and how biases can occur in the data science/ML pipeline? Based on your readings, what are some common design pitfalls that may allow for bias to creep in? From the perspective of an engineer, what are some best practices that might mitigate the effect of bias? From the perspective of a citizen, end-user, what are some ways you can advocate for your own rights in the presence of algorithmic bias (how would you know you've been affected by algorithmic bias)? From the perspective of a law/policy maker, how would you advocate for legislating/regulating the usage of AI in decision making systems?
+
