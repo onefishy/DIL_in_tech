@@ -25,4 +25,4 @@ This course is not listed on `my.harvard`. Instead, registration is through comp
 2. Contact your IACS academic advisor to obtain and submit a AC299r application for this course
 
 **Spring 2022 Reading Group**
-The reading seminar will continue as a not-for-credit [reading group in Spring 2022(./reading_group.html)!
+The reading seminar will continue as a not-for-credit [reading group in Spring 2022](./reading_group.html)!
