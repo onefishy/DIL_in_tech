@@ -1,22 +1,23 @@
 # Spring 2022 Diversity, Inclusion and Leadership in Tech Reading Group
-This is a reading group for IACS students and affliates on issues of diversity and inclusion, focusing on how to take leadership in creating more equitable and just communities in tech. 
+This is a reading group for IACS students and affliates on issues of diversity and inclusion, focusing on how to take leadership in creating more equitable and just communities in tech. The reading group is supported and facilitated by members of the [IACS Graduate Advisory Committee](https://iacs-gac.github.io/pages/about.html) as well as IACS faculty and staff.
+
 This reading group is a not-for-credit continuation of the Fall [Diversity, Inclusion and Leadership Seminar](https://onefishy.github.io/DIL_in_tech/). The reading group will be bimonthly and discuss papers on topics that are chosen by both group facilitators as well as participants. 
 
 We welcome folks of all backgrounds in the wider IACS community to [sign-up for the reading group](https://forms.gle/JdwvyXTbErmSM99c6)!
 
 ## Prerequisite Readings:
-In order to establish a foundation of shared language and references, we ask that participants complete the following list of reading prior to our first group meeting.
+In order to establish a foundation of shared language and references, we ask that participants complete the following list of reading prior to our first group meeting. These readings are selected from the syllabus of the [DIL Seminar](https://onefishy.github.io/DIL_in_tech/).
 
-1. Five Years of Tech Diversity Reports—and Little Progress
-2. WHY IS SILICON VALLEY SO AWFUL TO WOMEN?
-3. Excerpts from Race After Technology
-4. Excerpts from Invisible Women
-5. Data Science as Political Action: Grounding Data Science in a Politics of Justice
-6. “Those invisible barriers are real”: The Progression of First-Generation Students Through Doctoral Education
-7. Fourteen Recommendations to Create a More Inclusive Environment for LGBTQ+ Individuals in Academic Biology
-8. Awareness in Practice: Tensions in Access to Sensitive Attribute Data for Antidiscrimination
-9. Introduction and Chapter 1 of Ghost Work 
-10. Algorithms are Not Neutral: Bias in Collaborative Filtering
+1. [Five Years of Tech Diversity Reports—and Little Progress](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/)
+2. [WHY IS SILICON VALLEY SO AWFUL TO WOMEN?](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/)
+3. [Introduction and Chapter 2 from Race After Technology](https://www.ruhabenjamin.com/race-after-technology)
+4. [Chapters 1 and 8 from Invisible Women](https://carolinecriadoperez.com/book/invisible-women/)
+5. [Data Science as Political Action: Grounding Data Science in a Politics of Justice](https://arxiv.org/abs/1811.03435)
+6. [“Those invisible barriers are real”: The Progression of First-Generation Students Through Doctoral Education](https://www.tandfonline.com/doi/abs/10.1080/10665684.2011.529791?journalCode=ueee20)
+7. [Fourteen Recommendations to Create a More Inclusive Environment for LGBTQ+ Individuals in Academic Biology](https://www.lifescied.org/doi/10.1187/cbe.20-04-0062)
+8. [Awareness in Practice: Tensions in Access to Sensitive Attribute Data for Antidiscrimination](https://arxiv.org/pdf/1912.06171.pdf)
+9. [Introduction and Chapter 1 of Ghost Work](https://ghostwork.info)
+10. [Algorithms are Not Neutral: Bias in Collaborative Filtering](https://arxiv.org/abs/2105.01031)
 
 ## Schedule
 TBA
