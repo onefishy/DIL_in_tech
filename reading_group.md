@@ -1,5 +1,5 @@
 # Spring 2022 Diversity, Inclusion and Leadership in Tech Reading Group
-This is a reading group for IACS students and affliates on issues of diversity and inclusion, focusing on how to take leadership in creating more equitable and just communities in tech. The reading group is supported and facilitated by members of the [IACS Graduate Advisory Committee](https://iacs-gac.github.io/pages/about.html) as well as IACS faculty and staff.
+This is a reading group for IACS students and affliates on issues of diversity and inclusion, focusing on how to take leadership in creating more equitable and just communities in tech. The reading group is supported and facilitated by members of the [IACS Graduate Advisory Committee](https://iacs-gac.github.io/pages/about.html) as well as by IACS faculty and staff.
 
 This reading group is a not-for-credit continuation of the Fall [Diversity, Inclusion and Leadership Seminar](https://onefishy.github.io/DIL_in_tech/). The reading group will be bimonthly and discuss papers on topics that are chosen by both group facilitators as well as participants. 
 
