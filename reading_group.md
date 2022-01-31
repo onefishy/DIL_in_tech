@@ -8,6 +8,8 @@ We welcome folks of all backgrounds in the wider IACS community to [sign-up for 
 ## Location and Time
 We will meet bi-monthly on Fridays from 3.30pm-4.30pm in SEC 6.301.
 
+Erin Erhart will host a DIB coffee hour on alternate Fridays (3.30pm-4.30pm) in their office SEC 1.312.09 (see **Schedule**).
+
 ## Prerequisite Readings:
 In order to establish a foundation of shared language and references, we ask that participants complete the following list of reading prior to our first group meeting. These readings are selected from the syllabus of the [DIL Seminar](https://onefishy.github.io/DIL_in_tech/).
 
@@ -24,7 +26,7 @@ In order to establish a foundation of shared language and references, we ask tha
 
 ## Schedule
 
-**February 4th** Introductions
+**February 4th, 3.30pm-4.30pm** Introductions
 
 - *Reading:* Prerequisite Readings
 - *Suggested discussion questions:*  
@@ -32,3 +34,5 @@ In order to establish a foundation of shared language and references, we ask tha
   - From the readings, how might one argue for increasing diversity in tech -- i.e. why is diversity in tech important, what are some of the negative consequences of the lack of diversity. Does this align with your personal experiences in academia/industry?
   - From the readings, what are the obstacles to diversifying tech? Where are the leadership opportunities for change in the wider tech community? Where are they at IACS or Harvard?
   - What would you like to get out of this reading group? What topics/issues would you like to explore?
+
+**February 11th, 3.30pm-4.30pm** DIB Coffee Hour with Erin Erhart
