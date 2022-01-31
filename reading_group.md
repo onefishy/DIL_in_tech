@@ -5,6 +5,9 @@ This reading group is a not-for-credit continuation of the Fall [Diversity, Incl
 
 We welcome folks of all backgrounds in the wider IACS community to [sign-up for the reading group](https://forms.gle/JdwvyXTbErmSM99c6)!
 
+## Location and Time
+We will meet bi-monthly on Fridays from 3.30pm-4.30pm in SEC 6.301.
+
 ## Prerequisite Readings:
 In order to establish a foundation of shared language and references, we ask that participants complete the following list of reading prior to our first group meeting. These readings are selected from the syllabus of the [DIL Seminar](https://onefishy.github.io/DIL_in_tech/).
 
@@ -20,4 +23,12 @@ In order to establish a foundation of shared language and references, we ask tha
 10. [Algorithms are Not Neutral: Bias in Collaborative Filtering](https://arxiv.org/abs/2105.01031)
 
 ## Schedule
-TBA
+
+**February 4th** Introductions
+
+- *Reading:* Prerequisite Readings
+- *Suggested discussion questions:*  
+  - From the readings, what is your sense of the current landscape of diversity in tech? Does this align with your personal experiences in academia/industry?
+  - From the readings, how might one argue for increasing diversity in tech -- i.e. why is diversity in tech important, what are some of the negative consequences of the lack of diversity. Does this align with your personal experiences in academia/industry?
+  - From the readings, what are the obstacles to diversifying tech? Where are the leadership opportunities for change in the wider tech community? Where are they at IACS or Harvard?
+  - What would you like to get out of this reading group? What topics/issues would you like to explore?
