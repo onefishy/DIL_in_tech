@@ -76,7 +76,7 @@ In this session, we look at ways that we can instantiate princples/frameworks fr
 
 - *Motivation:*
   We have all heard the phrase "garbage in, garbage out", referring to the fact that models built on unreliable data will be unreliable for down-stream tasks. Now, we want to study concrete ways in which undesirable properties of data may cause real-life societal harm through their effects on machine learning models. The Data Nutrient Project is an example of this type of endeavour. First, familiarize yourself with the mission of the Data Nutrient Project.
-  - [The Data Nutrient Projec](https://datanutrition.org)
+  - [The Data Nutrient Project](https://datanutrition.org)
 
 - *Dataset:* 
   As a case study, let's generate a data Nutrient label for the NYC Notice of Property Values dataset.
