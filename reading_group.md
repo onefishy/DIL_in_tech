@@ -102,3 +102,8 @@ This week we examine another case study of the broader socal impact of technolog
   - What are some potential draw-backs and blind-spots of the study in [A large-scale analysis of racial disparities in police stops across the United States](https://5harad.com/papers/100M-stops.pdf)? What are some limitations on the generalizability of the insights/conclusions in the paper?
   - What are the implementational bottlenecks for each category of computing application in [Roles for Computing in Social Change](https://dl.acm.org/doi/pdf/10.1145/3351095.3372871)(e.g. what are the political, economic, cultural challenges that must be overcome in order to achieve social change via tech in each category)?
   - Do you agree with the taxonomy of computing applications in [Roles for Computing in Social Change](https://dl.acm.org/doi/pdf/10.1145/3351095.3372871)?
+
+
+**April 22th, 3.30pm-5pm** Data Labeling Party with the Data Nutrition Project
+
+This week the [Harvard Data Nutrition Project](https://datanutrition.org) is visiting our reading group. We will engage in another short data labeling exercise and discuss research in ML transparency, fairness and policy.
